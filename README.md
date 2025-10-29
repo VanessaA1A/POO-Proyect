@@ -1,2 +1,13 @@
-# Ariana-Avila
-Proyecto ATM
+UNIVERSIDAD AMERICANA
+
+SIS0208 - METODOLOGIA Y PROGRAMACION ORIENTADA A OBJETOS I - GRUPO 4
+
+Proyecto de curso
+
+Integrantes EQUIPO :
+
+Ariana Vanessa Avila Fajardo 
+
+Docente:
+
+NORMAN JOSE CASH ARCIA
