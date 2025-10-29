@@ -6,10 +6,13 @@ Proyecto de curso
 
 Integrantes EQUIPO :
 
-Ariana Vanessa Avila Fajardo
-Armando Jose Valdivia Reyes
-Fernando Martin Jiminez
 Roberto Carlos López Ramírez
+
+Ariana Vanessa Avila Fajardo
+
+Armando Jose Valdivia Reyes
+
+Fernando Martin Jiménez
 
 Docente:
 
