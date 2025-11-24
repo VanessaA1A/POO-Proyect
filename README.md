@@ -1,6 +1,4 @@
-# Sistema de Gestión de
-
-# Servicios para PoolNic
+# Sistema de Gestión de Servicios para PoolNic
 
 ## METODOLOGIA Y PROGRAMACION ORIENTADA A OBJETOS I - GRUPO 4
 
